@@ -9,5 +9,7 @@
             "email": "github@xoomcoder.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
